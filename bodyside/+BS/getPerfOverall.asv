@@ -1,0 +1,61 @@
+function [correctFrac, incorrectFrac, missFrac, leftStim, rightStim, sideAssist, leftStimProb, isSessInfo] = getPerfOverall(se)
+    behavData = se.GetTable('behavValue');
+    stimRight = behavData.rightStimType{end};
+    stimLeft = behavData.leftStimType{end};
+    keyboard;
+    responses = cell2mat(behavData.response);
+    % remove abort trials
+    abortTrials = responses ==3;
+    behavData(abortTrials,:) = [];
+
+   
+    %separate miss trials
+    responses = cell2mat(behavData.response);
+    missTrials = find(responses==0);
+    
+    missData = behavData(missTrials, :);
+    behavData(missTrials,:) = [];
+    
+    
+     %remove catch trials
+    result = behavData.result;
+    catchTrials = isnan(result);
+    behavData(catchTrials,:) = [];
+
+    % remove optoTrials
+    trialType = behavData.trialType;
+    ismember(trialType{3}, 'Opto')
+
+    isOpto = cellfun(@(x) sum(ismember(x,'Opto'))==4, trialType, 'UniformOutput', false);
+    result = behavData.result;
+    
+
+    correctTrials = find(result);
+    try
+        incorrectTrials = find(~result);
+    catch
+        keyboard;
+    end 
+    missTrials = find(~cell2mat(missData.response));
+    correctFrac = height(correctTrials)/(height(correctTrials)+height(incorrectTrials));
+    incorrectFrac = height(incorrectTrials)/(height(correctTrials)+height(incorrectTrials));
+
+  
+    missFrac = height(missTrials)/(height(missTrials)+height(correctTrials)+height(incorrectTrials));
+    
+    rightStim = cellstr(stimRight);
+
+    leftStim = cellstr(stimLeft);
+    
+    sideAssist =  ~strcmp(se.userData.bctData.TrialTypeSection_SideAssist, 'No');
+        
+    leftStimProb = se.userData.bctData.TrialTypeSection_LeftTrialProb;
+    if size(fields(se.userData),1) <2
+        isSessInfo = 0;
+    elseif isempty(se.userData.sessionInfo)
+        isSessInfo =0;
+    else
+        isSessInfo =1;
+    end
+
+end
