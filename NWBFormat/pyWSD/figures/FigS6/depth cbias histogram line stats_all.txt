@@ -1,0 +1,6 @@
+All Mann Whitney U test across Genotypes for same responsetype: ipsilateral
+p-value: 0.4857
+All Mann Whitney U test across Genotypes for same responsetype: bilateral
+p-value: 0.1143
+All Mann Whitney U test across Genotypes for same responsetype: contralateral
+p-value: 1.0000

@@ -1,0 +1,8 @@
+For S1 WT -50 ~ 0 ms: true CI is 0.45317 to 0.530805
+For S1 WT -50 ~ 0 ms: shuffled CI is 0.461296 to 0.53305
+For S1 KO -50 ~ 0 ms: true CI is 0.46109 to 0.531315
+For S1 KO -50 ~ 0 ms: shuffled CI is 0.452026 to 0.527491
+For S1 WT 0 ~ 50 ms: true CI is 0.695674 to 0.812903
+For S1 WT 0 ~ 50 ms: shuffled CI is 0.455803 to 0.5356
+For S1 KO 0 ~ 50 ms: true CI is 0.623374 to 0.758889
+For S1 KO 0 ~ 50 ms: shuffled CI is 0.4591 to 0.529222

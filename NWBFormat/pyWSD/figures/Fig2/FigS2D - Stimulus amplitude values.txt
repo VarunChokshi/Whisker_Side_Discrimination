@@ -1,0 +1,6 @@
+For genotype: WT Contra mean: 71.368 sd: 17.912
+For genotype: WT Ipsi mean: 70.625 sd: 18.047
+For genotype: KO Contra mean: 80.6 sd: 11.948
+For genotype: KO Ipsi mean: 80.303 sd: 12.584
+Between genotype Mann whitney U test comparison for contra p-value  0.14923
+Between genotype Mann whitney U test comparison for ipsi p-value  0.10268

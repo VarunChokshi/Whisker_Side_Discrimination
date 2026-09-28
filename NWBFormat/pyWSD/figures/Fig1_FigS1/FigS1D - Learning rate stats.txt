@@ -1,0 +1,6 @@
+WT n=10 sessions per mouse: [65.0, 36.0, 10.0, 45.0, 9.0, 8.0, 39.0, 22.0, 14.0, 39.0]
+KO n=8 sessions per mouse: [40.0, 27.0, 46.0, 15.0, 13.0, 40.0, 17.0, 42.0]
+WT mean=28.7 SEM=6.033
+KO mean=30 SEM=4.803
+Welch t-test (ttest2 'unequal'): t=-0.1686, p=0.8683
+Rank-sum (Mann-Whitney U): p=0.4496

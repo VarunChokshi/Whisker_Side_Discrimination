@@ -1,0 +1,6 @@
+WT n=10, per-mouse counts: [65 36 10 45 9 8 39 22 14 39]
+KO n=8, per-mouse counts: [40 27 46 15 13 40 17 42]
+WT mean=28.7 SEM=6.033
+KO mean=30 SEM=4.803
+ttest2 (Vartype unequal) p=0.8683
+ranksum p=0.4462

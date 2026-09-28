@@ -1,0 +1,15 @@
+Sup Mann-Whitney across genotypes (ipsilateral): p = 0.3865
+Sup Mann-Whitney across genotypes (bilateral): p = 0.0319
+Sup Mann-Whitney across genotypes (contralateral): p = 0.0319
+KO Sup Friedman p = 0.2019
+WT Sup Friedman p = 0.0183
+L4 Mann-Whitney across genotypes (ipsilateral): p = 1.0000
+L4 Mann-Whitney across genotypes (bilateral): p = 0.1227
+L4 Mann-Whitney across genotypes (contralateral): p = 0.2419
+KO L4 Friedman p = 0.3679
+WT L4 Friedman p = 0.0388
+Deep Mann-Whitney across genotypes (ipsilateral): p = 0.0104
+Deep Mann-Whitney across genotypes (bilateral): p = 0.0256
+Deep Mann-Whitney across genotypes (contralateral): p = 0.0079
+KO Deep Friedman p = 0.8777
+WT Deep Friedman p = 0.0015

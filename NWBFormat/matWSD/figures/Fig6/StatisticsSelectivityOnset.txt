@@ -1,0 +1,3 @@
+Contra two-sided ks test WT != KO pval: 0.70069
+KO one-sided ks test contra < ipsi pval: 0.00503
+one-sided ks test WT contra < KO ipsi pval: 0.0096963

@@ -1,0 +1,8 @@
+For Motor WT -100 ~ 0 ms: true median is 0.551724
+For Motor WT -100 ~ 0 ms: shuffled median is 0.531646
+For Motor WT 0 ~ 100 ms: true median is 0.756757
+For Motor WT 0 ~ 100 ms: shuffled median is 0.476744
+For Motor KO -100 ~ 0 ms: true median is 0.553728
+For Motor KO -100 ~ 0 ms: shuffled median is 0.512827
+For Motor KO 0 ~ 100 ms: true median is 0.63699
+For Motor KO 0 ~ 100 ms: shuffled median is 0.50367

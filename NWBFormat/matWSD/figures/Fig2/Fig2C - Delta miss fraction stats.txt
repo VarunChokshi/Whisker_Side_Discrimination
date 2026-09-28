@@ -1,0 +1,7 @@
+Pvals using binomial tests:
+For genotype WT using binocdf contra is 0.00097656 using binopdf contra is 0.00097656
+For genotype WT using binocdf ipsi is 0.62305 using binopdf ipsi is 0.24609
+For genotype KO using binocdf contra is 0.37695 using binopdf contra is 0.20508
+For genotype KO using binocdf ipsi is 0.82812 using binopdf ipsi is 0.20508
+Between genotypes contra effect comparison using Mann Whitney U is 0.0091085
+Between genotypes ipsi effect comparison using Mann Whitney U is 0.79134

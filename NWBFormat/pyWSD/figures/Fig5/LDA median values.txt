@@ -1,0 +1,8 @@
+For S1 WT -50 ~ 0 ms: true median is 0.541098
+For S1 WT -50 ~ 0 ms: shuffled median is 0.520321
+For S1 WT 0 ~ 50 ms: true median is 0.796723
+For S1 WT 0 ~ 50 ms: shuffled median is 0.546827
+For S1 KO -50 ~ 0 ms: true median is 0.513158
+For S1 KO -50 ~ 0 ms: shuffled median is 0.514706
+For S1 KO 0 ~ 50 ms: true median is 0.718288
+For S1 KO 0 ~ 50 ms: shuffled median is 0.520803

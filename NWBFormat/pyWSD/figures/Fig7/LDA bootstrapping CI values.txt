@@ -1,0 +1,8 @@
+For Motor WT -100 ~ 0 ms: true CI is 0.441269 to 0.548576
+For Motor WT -100 ~ 0 ms: shuffled CI is 0.461285 to 0.547844
+For Motor KO -100 ~ 0 ms: true CI is 0.472745 to 0.552867
+For Motor KO -100 ~ 0 ms: shuffled CI is 0.446981 to 0.537529
+For Motor WT 0 ~ 100 ms: true CI is 0.606613 to 0.7656
+For Motor WT 0 ~ 100 ms: shuffled CI is 0.447829 to 0.54146
+For Motor KO 0 ~ 100 ms: true CI is 0.548881 to 0.680106
+For Motor KO 0 ~ 100 ms: shuffled CI is 0.452958 to 0.53324

@@ -1,0 +1,6 @@
+WT: 10 Hz Peak for Contra: 8.1404and Peak for Ipsi: 3.9483
+WT: 20 Hz Peak for Contra: 11.0818and Peak for Ipsi: 5.0094
+WT: 40 Hz Peak for Contra: 10.7144and Peak for Ipsi: 4.2769
+KO: 10 Hz Peak for Contra: 6.3443and Peak for Ipsi: 4.2617
+KO: 20 Hz Peak for Contra: 9.6975and Peak for Ipsi: 6.4222
+KO: 40 Hz Peak for Contra: 8.4677and Peak for Ipsi: 4.3522

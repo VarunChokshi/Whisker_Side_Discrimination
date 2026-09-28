@@ -1,0 +1,24 @@
+For genotype: WT stats_overall Mean: 0.75743 SD: 0.025849
+For genotype: KO stats_overall Mean: 0.72826 SD: 0.066204
+For plotType: Correct fraction stats_overall Mann Whitney U pval: 0.14571
+For genotype: WT _left Mean: 0.75187 SD: 0.048722
+For genotype: KO _left Mean: 0.724 SD: 0.080643
+For plotType: Correct fraction _left Mann Whitney U pval: 0.31542
+For genotype: WT _right Mean: 0.76299 SD: 0.066899
+For genotype: KO _right Mean: 0.73098 SD: 0.059918
+For plotType: Correct fraction _right Mann Whitney U pval: 0.31542
+For genotype: WT stats_overall Mean: 0.094984 SD: 0.065275
+For genotype: KO stats_overall Mean: 0.13593 SD: 0.1044
+For plotType: Miss fraction stats_overall Mann Whitney U pval: 0.35993
+For genotype: WT _left Mean: 0.10428 SD: 0.074259
+For genotype: KO _left Mean: 0.13808 SD: 0.086365
+For plotType: Miss fraction _left Mann Whitney U pval: 0.23699
+For genotype: WT _right Mean: 0.085232 SD: 0.067397
+For genotype: KO _right Mean: 0.13371 SD: 0.13324
+For plotType: Miss fraction _right Mann Whitney U pval: 0.69647
+For genotype: WT Left Stim trials Mean: 73.29 SD: 22.541
+For genotype: KO Left Stim trials Mean: 82.727 SD: 12.891
+For plotType: Amplitude Left Stim trials Mann Whitney U pval: 0.49111
+For genotype: WT Right Stim trials Mean: 75.658 SD: 17.058
+For genotype: KO Right Stim trials Mean: 86.206 SD: 15.753
+For plotType: Amplitude Right Stim trials Mann Whitney U pval: 0.24393

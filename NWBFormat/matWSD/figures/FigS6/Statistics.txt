@@ -1,0 +1,14 @@
+Contra WT one-sided ks test M1 > S1 pval: 0.00016636
+Contra WTone-sided Mann Whitney U M1 > S1 pval: 0.00001753
+S1 KO two-sided ks test contra != ipsi pval: 0.93650
+S1 KO two-sidedMann Whitney U contra != ipsi pval: 0.27316
+M1 KO one-sided ks test contra < ipsi pval: 0.00503
+M1 KO one-sided Mann Whitney U test contra < ipsi pval: 0.00091575
+Contra KO one-sided ks test S1 < M1 pval: 0.00047558
+Contra KO one-sided Mann Whitney U test S1 < M1 pval: 0.0008654
+KO one-sided ks test S1c < M1i pval: 0.00503
+KO one-sided Mann Whitney U test S1c < M1i pval: 0.00029676
+KO one-sided ks test S1i < M1c pval: 0.037598
+KO one-sided Mann Whitney U test S1i < M1c pval: 0.014299
+Ipsi KO one-sided ks test S1 < M1 pval: 0.0028003
+Ipsi KO one-sided Mann Whitney U test S1 < M1 pval: 0.0059793

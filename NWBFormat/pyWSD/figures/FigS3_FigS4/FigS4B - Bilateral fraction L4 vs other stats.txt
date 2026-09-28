@@ -1,0 +1,13 @@
+Percent bilateral units (|cbias| < 0.33), 20hz, 150 ms window
+Layers: L4 vs (superficial + deep). Paired within mouse.
+
+Genotype KO, n = 3 mice
+  mean +/- SEM: other = 27.3 +/- 6.3, L4 = 50.0 +/- 28.9
+  Wilcoxon L4 vs other two-sided p = 0.5000
+  Wilcoxon L4 < other one-sided p = 0.8750
+Genotype WT, n = 4 mice
+  mean +/- SEM: other = 6.5 +/- 3.6, L4 = 0.0 +/- 0.0
+  Wilcoxon L4 vs other two-sided p = 0.1025
+  Wilcoxon L4 < other one-sided p = 0.0512
+
+Mann-Whitney on (L4 - other) across genotypes: p = 0.4715

@@ -1,0 +1,16 @@
+KO: 10 Hz Peak Contra: 13.73 Peak Ipsi: 8.941
+WT: 10 Hz Peak Contra: 15.85 Peak Ipsi: 4.233
+KO: 20 Hz Peak Contra: 14.74 Peak Ipsi: 11.22
+WT: 20 Hz Peak Contra: 22.36 Peak Ipsi: 4.104
+KO: 40 Hz Peak Contra: 16.36 Peak Ipsi: 14.94
+WT: 40 Hz Peak Contra: 26.77 Peak Ipsi: 4.511
+KO 40Hz-10Hz paired-t (contra) p = 0.0001457
+KO 40Hz-10Hz paired-t (ipsi) p = 0.0001573
+WT 40Hz-10Hz paired-t (contra) p = 0.002361
+WT 40Hz-10Hz paired-t (ipsi) p = 0.5417
+KO 10 Hz ipsi vs contra paired-t p = 0.1892
+KO 20 Hz ipsi vs contra paired-t p = 0.2397
+KO 40 Hz ipsi vs contra paired-t p = 0.1885
+WT 10 Hz ipsi vs contra paired-t p = 1.378e-12
+WT 20 Hz ipsi vs contra paired-t p = 9.687e-17
+WT 40 Hz ipsi vs contra paired-t p = 6.751e-12

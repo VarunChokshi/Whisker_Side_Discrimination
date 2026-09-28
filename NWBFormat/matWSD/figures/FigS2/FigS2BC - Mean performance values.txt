@@ -1,0 +1,12 @@
+For genotype: WT Mean contra is 0.75942     0.43519 std: 0.074167     0.14645
+For genotype: WT Mean ipsi is 0.75331     0.82523 std: 0.056447    0.047501
+For genotype: KO Mean contra is 0.72956     0.44326 std: 0.081032     0.18654
+For genotype: KO Mean ipsi is 0.74355     0.83585 std: 0.073859    0.060221
+Between genotype comparison for contra p-value for after effect is 0.91547
+Between genotype comparison for ipsi p-value for after effect is 0.66679
+Between genotype comparison for contra p-value for baseline is 0.4013
+Between genotype comparison for ipsi p-value for baseline is 0.74357
+For genotype WT paired ttest comparison for contra p-value for after effect is 1.3494e-05
+For genotype WT paired ttest comparison for ipsi p-value for after effect is 0.0025507
+For genotype KO paired ttest comparison for contra p-value for after effect is 0.0018237
+For genotype KO paired ttest comparison for ipsi p-value for after effect is 0.00033631
