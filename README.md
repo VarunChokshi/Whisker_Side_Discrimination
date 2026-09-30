@@ -114,7 +114,7 @@ Pick the representation and language you want; each pipeline has its own README 
 
 ## Data availability
 
-The processed recordings are **not** stored in this repository (the NWB files are large). They are released on **DANDI** — *(add dataset DOI / link here)*. Snapshot copies of the generated figures are committed under each pipeline's `figures/` folder so the results are viewable without downloading the data.
+The processed recordings are **not** stored in this repository (the NWB files are large). They will be released on **DANDI** — *(add dataset DOI / link here)*. Snapshot copies of the generated figures are committed under each pipeline's `figures/` folder so the results are viewable without downloading the data.
 
 ## Citation
 
