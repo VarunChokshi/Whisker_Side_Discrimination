@@ -38,7 +38,7 @@ Together the results show the brain can adapt to a dramatic alteration of tactil
 
 The same recordings are provided in two data structures. Both describe identical experiments; they differ in format and intended audience.
 
-### 1. O'Connor‑lab `MSessionExplorer` (`se`) — the native lab structure
+### 1. O'Connor-lab `MSessionExplorer` (`se`) — the native lab structure
 
 `MSessionExplorer` (**`se`**) is the O'Connor lab's session‑level container for accumulating and preprocessing synchronized neural and behavioral data. A single `se` object holds, per recording session, aligned trial tables, behavioral time series (lick times, whisker/stimulus signals, task epochs), and spike data, together with the toolkit methods used to slice, resample, and epoch them. It is the structure the analyses were originally written against.
 
@@ -82,7 +82,7 @@ Whisker_Side_Discrimination/
     └── pyWSD/                           NWB -> figures (Python)
 ```
 
-The two top‑level folders are independent: `MsessionsExplorerFormat/` reproduces the figures from the native lab structure, `NWBFormat/` reproduces the same figures from the shareable NWB dataset.
+The two top-level folders are independent: `MsessionsExplorerFormat/` reproduces the figures from the native lab structure, `NWBFormat/` reproduces the same figures from the shareable NWB dataset.
 
 ---
 
