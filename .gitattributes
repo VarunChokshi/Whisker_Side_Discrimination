@@ -1,0 +1,14 @@
+# GitHub Linguist language classification
+# Controls the colored language bar ("summary") shown on the repo page.
+
+# Count Python and Jupyter notebooks in the language stats (both detectable by
+# default; listed explicitly so the intent is clear and stays put).
+*.py     linguist-detectable=true
+*.ipynb  linguist-detectable=true
+
+# Third-party MATLAB dependency bundled in the repo — exclude from language
+# stats so it doesn't inflate the MATLAB share.
+MsessionsExplorerFormat/bodyside/ZETA-master/** linguist-vendored
+
+# MATLAB editor autosave files are not source code.
+*.asv linguist-generated

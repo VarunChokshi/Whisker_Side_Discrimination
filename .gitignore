@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.egg-info/
+
+# MATLAB
+*.asv
+*.mex*
+slprj/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
